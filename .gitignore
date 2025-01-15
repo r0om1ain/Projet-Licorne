@@ -7,4 +7,6 @@
 /public/bundles/
 /var/
 /vendor/
+.DS_Store
+.vscode/
 ###< symfony/framework-bundle ###
